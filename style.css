@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#run{
+    position:absolute;
+    white-space: wrap;
+    font-size: 2rem;
+}
